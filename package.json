@@ -16,5 +16,13 @@
     "mysql": "^2.15.0"
   },
   "devDependencies": {},
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjudi3/Burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jjudi3/Burger/issues"
+  },
+  "homepage": "https://github.com/jjudi3/Burger#readme"
 }
